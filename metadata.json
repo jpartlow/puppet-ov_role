@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A set of Puppet roles for administering the OpenVox stack.",
   "author": "Josh Partlow",
-  "license": "TBD",
+  "license": "AGPL-3.0",
   "source": "https://github.com/voxpupuli/puppet-ov_role",
   "project_page": "https://github.com/voxpupuli/puppet-ov_role",
   "issues_url": "https://github.com/voxpupuli/puppet-ov_role/issues",
