@@ -1,0 +1,19 @@
+---
+fixtures:
+  symlinks:
+    ov_profile: /home/jpartlow/work/src/voxpupuli/puppet-ov_profile
+  repositories:
+    # XXX: uncomment and delete above symlink repos are available
+    #ov_profile: 'https://github.com/voxpupuli/puppet-ov_profile'
+  forge_modules:
+    apt: puppetlabs-apt
+    cron_core: puppetlabs-cron_core
+    concat: puppetlabs-concat
+    firewall: puppetlabs-firewall
+    inifile: puppetlabs-inifile
+    openvoxdb: puppet-openvoxdb
+    postgresql: puppetlabs-postgresql
+    puppet: theforeman-puppet
+    stdlib: puppetlabs-stdlib
+    systemd: puppet-systemd
+    yumrepo_core: puppetlabs-yumrepo_core
