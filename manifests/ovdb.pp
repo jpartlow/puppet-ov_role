@@ -1,4 +1,4 @@
-class ov_role::ovdb(
+class ov_role::ovdb (
   Boolean $install_postgres = false,
 ) {
   contain 'ov_profile::agent'

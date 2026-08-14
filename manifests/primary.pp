@@ -1,4 +1,4 @@
-class ov_role::primary(
+class ov_role::primary (
   Boolean $install_ovdb     = true,
   Boolean $install_postgres = true,
 ) {
