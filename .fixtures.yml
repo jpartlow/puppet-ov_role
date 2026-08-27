@@ -3,7 +3,7 @@ fixtures:
   symlinks:
     ov_profile: /home/jpartlow/work/src/voxpupuli/puppet-ov_profile
   repositories:
-    # XXX: uncomment and delete above symlink repos are available
+    # XXX: uncomment and delete above symlink when repos are available
     #ov_profile: 'https://github.com/voxpupuli/puppet-ov_profile'
   forge_modules:
     apt: puppetlabs-apt
@@ -11,6 +11,7 @@ fixtures:
     concat: puppetlabs-concat
     firewall: puppetlabs-firewall
     inifile: puppetlabs-inifile
+    haproxy: puppetlabs-haproxy
     openvoxdb: puppet-openvoxdb
     postgresql: puppetlabs-postgresql
     puppet: theforeman-puppet
